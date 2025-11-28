@@ -7,3 +7,7 @@
 **ATTACH TINKERCAD CIRCUIT DIAGRAM**
 **ATTACH WAVE FORM**
 <img width="571" height="151" alt="image" src="https://github.com/user-attachments/assets/dc7fef76-841f-448a-a790-bb197f17140d" />
+
+![WhatsApp Image 2025-11-28 at 11 41 30_93e4a30b](https://github.com/user-attachments/assets/cc393e4f-9378-409a-af9f-0e2e310d76b2)
+![WhatsApp Image 2025-11-28 at 11 41 39_929340e4](https://github.com/user-attachments/assets/80fd8a3e-f6c8-4c25-93c3-46b27127d605)
+
